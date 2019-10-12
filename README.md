@@ -16,6 +16,20 @@ npm run serve
 npm run build
 ```
 
+### Serve built project
+Setelah dibuild, outputnya ada di folder dist
+untuk servenya, anda perlu menginstall package npm 'serve'
+*maksud '-g' yaitu global, jadi diinstal secara global atau bisa diakses dari mana saja.. 
+
+```
+npm install -g serve
+```
+
+setelah itu, kita serve yg ada di folder dist
+```
+serve -s dist
+```
+
 ### Run your tests
 ```
 npm run test
