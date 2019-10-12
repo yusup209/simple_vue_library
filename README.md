@@ -1,4 +1,5 @@
-# vue_library
+# Simple Library
+### Sebuah aplikasi perpustakaan praktis yang dibuat dengan Vue JS
 
 ## Project setup
 ```
